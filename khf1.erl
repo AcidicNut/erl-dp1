@@ -1,6 +1,6 @@
 -module(khf1).
--author('email@unit.org.hu').
--vsn('year-mm-dd').
+-author('lorinczb96@gmail.com').
+-vsn('2019-10-07').
 -export([feldarabolasa/2]).
 %-compile(export_all).
 
